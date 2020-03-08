@@ -1,3 +1,4 @@
+# comment only
 # -*- coding=utf-8 -*-
 '''
 京东抢购口罩程序
